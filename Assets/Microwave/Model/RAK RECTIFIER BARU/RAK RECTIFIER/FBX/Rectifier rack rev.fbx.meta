@@ -3,7 +3,147 @@ guid: bedcd60c636ead64abd9ecb5d4275da4
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 33570ee5d8cf39a459d768680232f864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 1807f9aaf6af5de478f1ae713c173802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZTE
+    second: {fileID: 2100000, guid: 43caea31bf7bedf45b0fa4633143f382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZTE ZXD300
+    second: {fileID: 2100000, guid: f127e5b77654ea548b098101a817b2b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: abu
+    second: {fileID: 2100000, guid: 9a1b128011450fc46bf10ebeabc8ac36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: abu.001
+    second: {fileID: 2100000, guid: 8cee27b91cc87b049b88ae721fcbce37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru
+    second: {fileID: 2100000, guid: 0767343165d25ae46b47cc30580b097d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru kabel
+    second: {fileID: 2100000, guid: 8e6ab81c2df0f2042a7b5d478c6b1337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru tua
+    second: {fileID: 2100000, guid: e015943fef37db746bdd550333ca7f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 2f598b1901db90a4f8eea7d84915c098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hijau
+    second: {fileID: 2100000, guid: f7f1cc5e35be141409f7f3d877d7aa5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hijau.001
+    second: {fileID: 2100000, guid: 75e83f104f4f69e47816577ed5992ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuning kabel
+    second: {fileID: 2100000, guid: a209b37a7d3190e40920fb2e8b1d2f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mcb
+    second: {fileID: 2100000, guid: 5a35cb23f9e74014d9d6d786e36d8b97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mcb 100a
+    second: {fileID: 2100000, guid: ab1ffb944ec224640a5c03d8f30ef73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merah kabel
+    second: {fileID: 2100000, guid: d82334f66f4a9b247a4feb3d16d43dfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 1cd7fec135b411945b28709aba8f1f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.001
+    second: {fileID: 2100000, guid: b822f09e4a2d7874fa99943aa5236214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.002
+    second: {fileID: 2100000, guid: 90c20592643a6c24db1e84bcb3c06c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.003
+    second: {fileID: 2100000, guid: 42c4544191559f544ac89b76753c37b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.004
+    second: {fileID: 2100000, guid: dacfac305de03f54ea8de90e0b7d1d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: putih
+    second: {fileID: 2100000, guid: 62d49a708d4f46a45ae07f573f9ccc0a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2019325213915790
+    second: {fileID: 2800000, guid: 2ec605ab32db9414c8f53c8082c3f814, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Desain tanpa judul (1)
+    second: {fileID: 2800000, guid: 9ce7060e38f5e16448ccaa9011dc33c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: H540a611de87b4020851e2e24c29c1e1ed.png_1200x1200
+    second: {fileID: 2800000, guid: c7ca9fc67d29fb74e80f134f3a73264e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leoch-Inverter-Solar-Battery-12V-150ah-with-Best-Price-in-off-Line-Solar-System
+    second: {fileID: 2800000, guid: 56b73c9a83c6d3d4d83682922d698d75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e71960d5-15cf-488c-a240-1eb0e156203b.jpg
+    second: {fileID: 2800000, guid: 80648b61dc6f55643a03c4b0b699e5e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ezgif.com-webp-to-jpg
+    second: {fileID: 2800000, guid: c62bc9f6e235de340994c5640c1be2c1, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +175,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.2
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -88,7 +228,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.002
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
